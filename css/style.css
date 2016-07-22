@@ -1,0 +1,52 @@
+
+header{ /*encabezado*/
+	padding:10px ;
+	background: black;
+	margin: 0;
+}
+.logo{
+	height: 70px;
+}
+ul{
+	/*list-style-type: none;*/
+	float: right;
+	margin: 25px;
+	color: white; 
+	list-style-type: none;
+
+
+}
+li{
+	float:left;
+	position :relative;
+	padding: 5px;
+	margin: 5px;
+	font-size: 15px;
+	font-color:white;
+	list-style-type: none;
+	color:white;
+}
+.submenu{
+	background: grey;
+}
+.imag{
+border:white solid 2px;
+margin: 10px;
+width: 200px;
+height: 200px;
+}
+.episodes{
+	margin-top:10px;
+}
+.thumbs{
+border:grey solid 1px;
+margin: 20px 5px 5px 0px;
+width: 130px;
+height: 130px;
+padding: 3px;
+
+}
+hr{
+	color:grey;
+	
+}
